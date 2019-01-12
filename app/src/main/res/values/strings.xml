@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjectBinaryVeda</string>
+    <string name="tab_skill_set">SKILL SET</string>
+    <string name="tab_work_function">WORK FUNCTION</string>
+    <string name="tab_industry">INDUSTRY</string>
+    <string name="qualification">Qualification</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="expected_ctc">Expected CTC</string>
+    <string name="currently_working">Currently Working</string>
+    <string name="designation">Designation</string>
+</resources>
